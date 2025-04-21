@@ -21,3 +21,4 @@ print("P2 receives message")
 p2.receive_event(t1)
 
 print(f"Final P1: {p1.time}, P2: {p2.time}")
+
