@@ -20,3 +20,4 @@ def detect_deadlock(initiator):
     forward(initiator)
 
 detect_deadlock(0)
+
